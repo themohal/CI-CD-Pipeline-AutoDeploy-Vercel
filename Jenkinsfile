@@ -1,4 +1,4 @@
-pipline {
+pipeline {
     agent any
     environment {
         // Define any environment variables here
